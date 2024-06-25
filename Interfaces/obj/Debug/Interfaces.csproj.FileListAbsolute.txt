@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\Interfaces\obj\Debug\Interfaces.pdb
